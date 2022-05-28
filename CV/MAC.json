@@ -151,6 +151,62 @@
       },
       {
         "details": {
+          "name": "THD Criptomoneda y plataforma descentralizada",
+          "description": "Un proyecto de moneda que empezó como un FORK de Dash para levantar una criptomoneda llamada THD que se centrara en una plataforma descentralizada y su valor creciera en función de la usabilidad de la plataforma.\n\nAl ser un fork de dash, la criptomoneda se podía minar y desplegar masternodos, que básicamente son super nodos que reservan cantidades X de la criptomoneda para funcionar.\n\nLa plataforma en cuestión, tiene desarrollada toda la funcionalidad de interacción con la criptomoneda, hice un servicio en Node.js que se comunicaba con el nodo gensis y gestionaba los monederos y su contenido, esto se representaba de forma gráfica en el dashboard de los clientes, escrito en Vue.\n\nAdemás, se podía desplegar masternodos automatizados, los cuales se cobraban a los clientes con Bitcoin o con la criptomoneda THD.\n\nEstos masternodos eran Droplets de Digital Ocean que replicaban el nodo principal y funcionaban como un masternodo de la wallet del cliente, por lo que tuve que interactuar con la api de Digital Ocean e instalar en el despliegue, un script en Go que realizaba la réplica del nodo y dejaba configurado el masternodo.\n\nEs uno de los proyectos más interesantes que he tenido oportunidad de hacer, desafortunadamente el proyecto no está en pie, sin embargo conservo todo el código en mis repositorios privados para mostrar el funcionamiento."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-11-01",
+            "finishDate": "2019-07-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Dash",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Bitmarket carrito de compras tipo video juego en JS y PHP",
           "description": "Un proyecto bastante divertido que consistía en tener un carrito de compras e irlo moviendo por un pasillo y tomar los productos a comprar de los anaqueles, el proyecto no se terminó pero aún conservo el repositorio para mostrarlo funcionando.\n\nEl carrito y los demás componentes eran snippets en .svg que controlaba con animaciones css.\nAdemás tenía música.\n\nLa forma de pago al finalizar la selección de productos era con un Token ERC20 realizado para el cliente y también Bitcoin."
         },
