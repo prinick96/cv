@@ -35,6 +35,38 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Ocrend PHP Framework",
+          "description": "Ocrend era el nombre de una pequeña academia que quise hacer en YouTube, y me enfoqué en crear un pequeño Framework de PHP enfocado en MVC, la idea era aprender a programar un sistema web utilizando la arquitectura MVC y aprender en el proceso.",
+          "URL": "https://github.com/prinick96/Ocrend-Framework"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-03-01",
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
