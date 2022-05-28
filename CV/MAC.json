@@ -234,6 +234,30 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero Informático",
+        "startDate": "2014-08-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Universidad Católica Andrés Bello",
+          "description": "Carrera de Pregrado",
+          "URL": "https://www.ucab.edu.ve/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
