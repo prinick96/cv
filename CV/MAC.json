@@ -164,6 +164,27 @@
       },
       {
         "details": {
+          "name": "Simulador de Caché a bajo nivel",
+          "description": "Proyecto de investigación para simular el comportamiento de una jerarquía  de memoria que  consiste en una memoria caché y una memoria principal.\n\n- Mapeo directo hacia un número.\n- Mapeo asociativo por conjunto hacia un número.\n- Movimiento de bloques en la memoria caché.\n- Algoritmos de reemplazo en caché (LRU, FIFO, RAND).",
+          "URL": "https://github.com/prinick96/cache-simulator"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-11-01",
+            "finishDate": "2016-12-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Web de videos en PHP",
           "description": "Proyecto desarrollado para un cliente en puerto rico que deseaba tener un sitio web para mostrar videos.\n\nEl proyecto está escrito en PHP y hago uso de la librería FFMpeg para PHP, la cual se instalaba como una librería en linux para poder manejar medios, la utilicé para extraer thumbs de los videos y éstos se previsualizaran al pasar el mouse por encima.\n\nAntes del proyecto, el cliente tenía un wordpress con casi 10TB de videos, por lo que también tuve que programar una herramienta que migrara toda esa información a la nueva base de datos, incluyendo mover los archivos de un servidor a otro.\n\nEl sitio debía ser multilenguaje, tener un sistema de usuarios, clasificación de videos, comentarios, descargas permitidas para usuarios premium, pasarela de pago en paypal para la suscripción premium."
         },
