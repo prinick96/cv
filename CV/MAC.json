@@ -113,6 +113,10 @@
               {
                 "name": "PHP",
                 "type": "technology"
+              },
+              {
+                "name": "Smarty",
+                "type": "technology"
               }
             ]
           }
