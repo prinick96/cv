@@ -40,10 +40,6 @@
       {
         "organization": {
           "name": "Advisor",
-          "image": {
-            "alt": "logop_poster_u4216.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/28/5bb8b168-8b52-4610-b0d3-970ba7bd8eb2_logop_poster_u4216.png"
-          },
           "URL": "https://advisor.com.ve"
         },
         "roles": [
