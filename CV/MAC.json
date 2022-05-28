@@ -179,6 +179,46 @@
       },
       {
         "details": {
+          "name": "Tracking para mecánica de vehículos en PHP",
+          "description": "Un sistema web escrito en PHP con Codeigniter, para gestionar todo acerca de remolques, utilitarios de vehículos o cabezas tractoras.\nTodos estos tenían una serie de campos para describir servicios a realizar, cada vehículo tenía un historial de asignaciones de conductores.\nCada conductor debía poder manejar máximo una tractora o utilitaria y un remolque.\nCada vehículo tenía una cantidad de ejes en los cuales se les asigna una cantidad definida de neumáticos, eran sustituidos o reemplazados tanto en la ubicación del vehículo o movidos a otro vehículo, por tanto había un historial de esas modificaciones.\nEn el dashboard se notificaba cuando algún vehículo ya necesitaba otra revisión, la cual era programada en base al Km de cada uno.\nCada conductor tenía su propio usuario para gestionar todo lo relacionado con él."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2017-06-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CodeIgniter",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Simulador de Caché a bajo nivel",
           "description": "Proyecto de investigación para simular el comportamiento de una jerarquía  de memoria que  consiste en una memoria caché y una memoria principal.\n\n- Mapeo directo hacia un número.\n- Mapeo asociativo por conjunto hacia un número.\n- Movimiento de bloques en la memoria caché.\n- Algoritmos de reemplazo en caché (LRU, FIFO, RAND).",
           "URL": "https://github.com/prinick96/cache-simulator"
