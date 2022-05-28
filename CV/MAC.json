@@ -86,46 +86,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Advisor",
-          "URL": "https://advisor.com.ve"
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2014-02-01",
-            "finishDate": "2014-08-01",
-            "challenges": [
-              {
-                "description": "Es una empresa que hace configuración de redes, cableado estructurado, mantenimiento de impresoras y servidores en Venezuela.\n\nEstuve haciendo un backoffice para gestionar las tareas y salidas a campo de los técnicos y así poder ver y asignar responsabilidades según las tareas ya asignadas.\n\nEn esta oportunidad el backend del sitio lo hice en Python con Django."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
