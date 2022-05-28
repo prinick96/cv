@@ -318,6 +318,18 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Express",
           "type": "technology"
         }
@@ -402,6 +414,12 @@
       },
       {
         "skill": {
+          "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Vuex",
           "type": "technology"
         }
@@ -409,6 +427,12 @@
       {
         "skill": {
           "name": "PostCSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
           "type": "technology"
         }
       }
