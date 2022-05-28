@@ -131,6 +131,42 @@
     "projects": [
       {
         "details": {
+          "name": "Lebuya",
+          "description": "Shop web escrito en PHP con un framework propio, para una tienda de ropa.\n"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-02-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "NEM Crypto api para wallet",
           "description": "API para interactuar con un nodo de la criptomoneda NEM, escrito en Java"
         },
