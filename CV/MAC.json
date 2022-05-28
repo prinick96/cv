@@ -131,6 +131,34 @@
     "projects": [
       {
         "details": {
+          "name": "7Trading",
+          "description": "Plataforma de envió de señales de inversión de criptomonedas, escrito el backend en Go y el front en Vue.\n\nLos creadores de las señales hacían una gráfica en TradingView con la estimación de subida/caída del precio y desde un backoffice creaban la señal, la cual era notificada por Telegram con un bot, los usuarios abrían la señal y veían la gráfica de predicción para proceder a realizar la inversión."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-06-01",
+            "competences": [
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Bilance wallet de BTC y USDT en Go",
           "description": "Una plataforma que funcionaba como monedero para BTC y USDT y micro exchange, para poder hacer intercambios entre las dos monedas, la plataforma se quedaba siempre con un porcentaje de ganancia entre cada intercambio y los usuarios tenían un gran sistema de referidos que bonificaba con acciones de los referidos dentro de la plataforma.\n\nEl Frontend escrito en Vue 2\nEl Backend escrito en GO, con una estructura de Model-Controller"
         },
