@@ -167,6 +167,43 @@
       },
       {
         "details": {
+          "name": "Página personal con API de Youtube en PHP",
+          "description": "El proyecto lo escribí en un framework propio de PHP que realicé.\nSe conecta con la API de YouTube y mostraba mis videos más recientes subidos.\n\nEra un sitio web personal para acompañar a mi canal de YouTube",
+          "URL": "https://github.com/prinick96/prinick.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-10-01",
+            "finishDate": "2017-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Twig",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Software de control para técnicos de teléfonos en PHP",
           "description": "Dashboard escrito en PHP que permitía un control en el flujo de trabajo e inventario de una pequeña empresa de técnicos de teléfonos celulares."
         },
