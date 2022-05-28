@@ -401,6 +401,27 @@
       },
       {
         "details": {
+          "name": "Spartangeek",
+          "description": "Una tienda de un Youtuber referente de Latinoamérica relacionado al Hardware.\nTuve la oportunidad de participar en el desarrollo del backend para la tienda en sus primeras versiones, el cuál está escrito en Ruby on Rails.",
+          "URL": "https://spartangeek.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-07-01",
+            "finishDate": "2017-07-01",
+            "competences": [
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Simulador de particionamiento en ASSEMBLY",
           "description": "Proyecto de investigación que simula el movimiento de bloques y particionamiento en memoria caché utilizando el algoritmo de reemplazo FIFO.\nRealizado en ASM para Win32 con una interfaz de comandos.\n\nEscrito en una noche.",
           "URL": "https://github.com/prinick96/cache-asm/blob/master/main.asm"
