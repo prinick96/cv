@@ -245,7 +245,11 @@
         "institution": {
           "name": "Universidad Católica Andrés Bello",
           "description": "Carrera de Pregrado",
-          "URL": "https://www.ucab.edu.ve/"
+          "URL": "https://www.ucab.edu.ve/",
+          "image": {
+            "alt": "Screenshot_2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/28/7d7482b2-bd26-4bda-9df0-07f28093c4ba_screenshot_2.png"
+          }
         },
         "linkedCompetences": [
           {
