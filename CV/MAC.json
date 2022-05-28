@@ -39,6 +39,56 @@
     "jobs": [
       {
         "organization": {
+          "name": "Freelancer"
+        },
+        "roles": [
+          {
+            "name": "FullStack Developer",
+            "startDate": "2015-03-01",
+            "challenges": [
+              {
+                "description": "He desarrollado múltiples proyectos como programador independiente, he tenido responsabilidades de backend, frontend, diseño de infraestructrura, arquitectura de software y administrador de sistemas.\n\nHa sido la principal motivación de mi aprendizaje, en cada proyecto me gusta aplicar nuevos conocimientos y tecnologías."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Advisor",
           "URL": "https://advisor.com.ve"
         },
