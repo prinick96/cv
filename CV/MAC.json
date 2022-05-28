@@ -151,6 +151,38 @@
       },
       {
         "details": {
+          "name": "Bitmarket carrito de compras tipo video juego en JS y PHP",
+          "description": "Un proyecto bastante divertido que consistía en tener un carrito de compras e irlo moviendo por un pasillo y tomar los productos a comprar de los anaqueles, el proyecto no se terminó pero aún conservo el repositorio para mostrarlo funcionando.\n\nEl carrito y los demás componentes eran snippets en .svg que controlaba con animaciones css.\nAdemás tenía música.\n\nLa forma de pago al finalizar la selección de productos era con un Token ERC20 realizado para el cliente y también Bitcoin."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-02-01",
+            "finishDate": "2018-04-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Sistema de votos Paraguay en PHP",
           "description": "Escrito con un framework PHP propio, hice un sistema sencillo para hacer votaciones de candidatos en una interfaz de una página.\n\nLos candidatos se cargaban manualmente y luego aparecían en la página principal para hacer las votaciones.\n\nLas votaciones tenían un horario de apertura y cierre según la hora local de Paraguay.\n\nFrontend hecho con Javascript y jQuery para consumir la api del backend."
         },
