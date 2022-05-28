@@ -132,7 +132,7 @@
       {
         "details": {
           "name": "NEM Crypto api para wallet",
-          "description": "API para interactuar con un nodo de la criptomoneda NEM"
+          "description": "API para interactuar con un nodo de la criptomoneda NEM, escrito en Java"
         },
         "type": "sideProject",
         "roles": [
