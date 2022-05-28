@@ -238,7 +238,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Golang",
+          "name": "Go",
           "type": "technology"
         },
         {
