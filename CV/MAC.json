@@ -167,6 +167,42 @@
       },
       {
         "details": {
+          "name": "Didoc Plataforma para Centros Médicos y Doctores",
+          "description": "Una plataforma para agendamiento de citas online, teleconsultas, gestión de pacientes, etc.\n\nDesarrollado el backend como servicio utilizando arquitectura hexagonal en Go\nEl frontend ha sido realizado con Vue 3 y empaquetado con Vite"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-05-01",
+            "competences": [
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "NEM Crypto api para wallet",
           "description": "API para interactuar con un nodo de la criptomoneda NEM, escrito en Java"
         },
