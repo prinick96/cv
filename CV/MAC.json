@@ -204,6 +204,39 @@
       },
       {
         "details": {
+          "name": "Calculadora de BTC a CLP/BS/USD",
+          "description": "Una pequeña app frontend que consumía de varias APIS, entre ellas de coinmarketcap para hacer un cálculo del precio de Bitcoin del momento a la moneda local seleccionada. ",
+          "URL": "https://github.com/prinick96/calculadora_btc"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-10-01",
+            "finishDate": "2017-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Software de control para técnicos de teléfonos en PHP",
           "description": "Dashboard escrito en PHP que permitía un control en el flujo de trabajo e inventario de una pequeña empresa de técnicos de teléfonos celulares."
         },
