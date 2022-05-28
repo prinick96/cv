@@ -131,6 +131,26 @@
     "projects": [
       {
         "details": {
+          "name": "NEM Crypto api para wallet",
+          "description": "API para interactuar con un nodo de la criptomoneda NEM"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-11-01",
+            "finishDate": "2018-12-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Sistema de votos Paraguay en PHP",
           "description": "Escrito con un framework PHP propio, hice un sistema sencillo para hacer votaciones de candidatos en una interfaz de una página.\n\nLos candidatos se cargaban manualmente y luego aparecían en la página principal para hacer las votaciones.\n\nLas votaciones tenían un horario de apertura y cierre según la hora local de Paraguay.\n\nFrontend hecho con Javascript y jQuery para consumir la api del backend."
         },
