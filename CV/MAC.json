@@ -23,6 +23,16 @@
         "type": "github",
         "URL": "https://github.com/prinick96"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Tengo un canal en Youtube con más de 30K de subs :)",
+        "fact": "Comencé hace años el canal, y la idea era aportar algo a la comunidad enseñando a programar, claramente mis habilidades actuales son mucho mejores que antes, pero allí está.\n\nhttps://www.youtube.com/c/prinick96"
+      },
+      {
+        "topic": "Framework PHP",
+        "fact": "Hace años hice un pequeño Framework en PHP cuya intención era hacer la vida más fácil al programador del día a día que quería hacer aplicaciones simples, fue un proyecto Open Source ligado a mi canal de Youtube.\n\nLa idea era entender un concepto como MVC mientras programabas una aplicación real.\n\nhttps://github.com/prinick96/Ocrend-Framework"
+      }
     ]
   },
   "knowledge": {
