@@ -146,6 +146,31 @@
       },
       {
         "details": {
+          "name": "Procesos e Hilos de Linux en C++",
+          "description": "Un proyecto de investigación para familiarizarse con los llamados al sistema relativos a la creación y administración de procesos e hilos usando la librería POSIX para la creación de procesos e hilos en Linux usando C con interfaz de comandos.",
+          "URL": "https://github.com/prinick96/procesos_e_hilos_SO"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-05-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ocrend PHP Framework",
           "description": "Ocrend era el nombre de una pequeña academia que quise hacer en YouTube, y me enfoqué en crear un pequeño Framework de PHP enfocado en MVC, la idea era aprender a programar un sistema web utilizando la arquitectura MVC y aprender en el proceso.",
           "URL": "https://github.com/prinick96/Ocrend-Framework"
