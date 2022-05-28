@@ -60,6 +60,10 @@
               {
                 "name": "PostgreSQL",
                 "type": "technology"
+              },
+              {
+                "name": "Twig",
+                "type": "technology"
               }
             ]
           }
