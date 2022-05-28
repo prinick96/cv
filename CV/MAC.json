@@ -131,6 +131,42 @@
     "projects": [
       {
         "details": {
+          "name": "Ecommerce como servicio",
+          "description": "Fue el primer proyecto en el que trabajé el backend como servicio y dejé de hacer un monolito entre frontend y backend.\n\nEl front lo trabajé con Coffescript, sin uso de librerías externas.\n\nEl backend fue hecho en PHP con Silex de Symfony para la API.\n\nEl diseño de las interfaces lo hice yo mismo con Adobe Photoshop.\n\nUn ecommerce pequeño con las necesidades concretas del cliente."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-11-01",
+            "finishDate": "2018-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CoffeeScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Software de control para técnicos de teléfonos en PHP",
           "description": "Dashboard escrito en PHP que permitía un control en el flujo de trabajo e inventario de una pequeña empresa de técnicos de teléfonos celulares."
         },
