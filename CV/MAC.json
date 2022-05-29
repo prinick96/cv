@@ -1020,6 +1020,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Linux administración de servidores",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Todo lo necesario para ser administrador",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-0c8653c7-d043-4d0a-b3f5-d44d4fae40e3.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Informático",
