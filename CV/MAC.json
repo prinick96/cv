@@ -999,6 +999,27 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "QA Agile",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Software Testing desde cero: MasterClass todo en 1 (2022)",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b6dc40d-48d6-47a3-b7f1-cebac63b540c.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cypress",
+            "type": "technology"
+          },
+          {
+            "name": "Selenium",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Informático",
