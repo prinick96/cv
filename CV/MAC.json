@@ -1092,6 +1092,15 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Testing buenas prácticas",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodelyTv"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Informático",
