@@ -1194,27 +1194,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Técnico en Electrónica",
-        "startDate": "2011-06-01",
-        "finishDate": "2014-06-01",
-        "institution": {
-          "name": "E.T.P Don Bosco",
-          "description": "Antes de la universidad, cursé un bachillerato técnico en electrónica, donde aprendí a realizar esquemas eléctricos, física electrónica y la parte práctica de realizar montajes en protoboard y PCB.\n\nEn este punto empecé a experimentar con Arduino, C y Assembler."
-        },
-        "linkedCompetences": [
-          {
-            "name": "Arduino",
-            "type": "technology"
-          },
-          {
-            "name": "C",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
