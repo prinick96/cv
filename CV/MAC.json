@@ -1131,6 +1131,21 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Kubernetes para desarrolladores",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Informático",
