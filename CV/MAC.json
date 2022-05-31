@@ -1114,11 +1114,11 @@
         },
         "linkedCompetences": [
           {
-            "name": "PHP",
+            "name": "Pascal",
             "type": "technology"
           },
           {
-            "name": "Pascal",
+            "name": "Scala",
             "type": "technology"
           }
         ]
