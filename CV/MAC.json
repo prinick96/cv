@@ -1208,7 +1208,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "ASP.net",
+            "name": ".NET",
             "type": "technology"
           },
           {
@@ -1229,10 +1229,6 @@
           },
           {
             "name": "Oracle",
-            "type": "technology"
-          },
-          {
-            "name": "Pascal",
             "type": "technology"
           },
           {
