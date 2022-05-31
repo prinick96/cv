@@ -1182,11 +1182,15 @@
         },
         "linkedCompetences": [
           {
-            "name": "JavaScript",
+            "name": "JAVA",
             "type": "technology"
           },
           {
-            "name": "PHP",
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "Pascal",
             "type": "technology"
           }
         ]
