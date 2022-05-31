@@ -1208,6 +1208,22 @@
         },
         "linkedCompetences": [
           {
+            "name": "ASP.net",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
             "name": "JAVA",
             "type": "technology"
           },
@@ -1217,6 +1233,10 @@
           },
           {
             "name": "Pascal",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
             "type": "technology"
           }
         ]
