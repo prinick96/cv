@@ -1001,6 +1001,22 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Mastering Go Programming",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-609914ef-0f88-4b9d-89d8-46473522e3d5.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Go",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "QA Agile",
         "startDate": "2022-05-01",
         "institution": {
