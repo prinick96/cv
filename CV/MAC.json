@@ -91,6 +91,34 @@
     "projects": [
       {
         "details": {
+          "name": "Hexagonal Architecture written in Go",
+          "description": "a TODO System with Hexagonal Architecture written in Go, test and uses cases examples, docker ready, heroku ready, basic CI integration, can use it how template for your projects",
+          "URL": "https://github.com/prinick96/hex-arch-go"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Bilance wallet de BTC y USDT en Go",
           "description": "Una plataforma que funcionaba como monedero para BTC y USDT y micro exchange, para poder hacer intercambios entre las dos monedas, la plataforma se quedaba siempre con un porcentaje de ganancia entre cada intercambio y los usuarios tenían un gran sistema de referidos que bonificaba con acciones de los referidos dentro de la plataforma.\n\nEl Frontend escrito en Vue 2\nEl Backend escrito en GO, con una estructura de Model-Controller"
         },
