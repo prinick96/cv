@@ -810,37 +810,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Go",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -876,30 +846,6 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Webpack",
           "type": "technology"
         }
@@ -930,37 +876,13 @@
       },
       {
         "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mongoose",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -972,13 +894,103 @@
       },
       {
         "skill": {
-          "name": "PHPunit",
+          "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -1002,30 +1014,37 @@
       },
       {
         "skill": {
-          "name": "Heroku",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vuex",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PostCSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Netlify",
+          "name": "Jest",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Vue 3: Novedades aplicadas al mundo real",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "studyType": "certification",
         "degreeAchieved": false,
