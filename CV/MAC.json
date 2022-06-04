@@ -1048,6 +1048,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Integración Continua con GitHub Actions",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Mastering Go Programming",
         "startDate": "2022-06-01",
         "institution": {
