@@ -1082,6 +1082,30 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Microservices in Go",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7349faa4-6a33-4bab-b517-48a34b63a91a.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Go",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Mastering Go Programming",
         "startDate": "2022-06-01",
         "institution": {
