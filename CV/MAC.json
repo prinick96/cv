@@ -1063,6 +1063,25 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Code Smells a Clean Code: Change Preventers",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Mastering Go Programming",
         "startDate": "2022-06-01",
         "institution": {
