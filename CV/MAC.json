@@ -1168,6 +1168,29 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Web Performance",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "CSS Flex a fondo",
         "startDate": "2022-06-01",
         "institution": {
