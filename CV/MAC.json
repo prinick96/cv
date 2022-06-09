@@ -1110,6 +1110,25 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Arquitectura CSS",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Integración Continua con GitHub Actions",
         "startDate": "2022-06-01",
         "institution": {
