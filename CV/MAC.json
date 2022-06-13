@@ -125,7 +125,11 @@
         "details": {
           "name": "Web personal <bnarvaez.dev>",
           "description": "Es mi web personal, está escrita en Vue 3 con Typescript y Sass, Vuex para el estado del lenguaje, empaquetada con Vite y los test unitarios realizados con Vitest.\n\nhttps://bnarvaez.dev\n\nDejé el código open source :)",
-          "URL": "https://bnarvaez.dev"
+          "URL": "https://bnarvaez.dev",
+          "image": {
+            "alt": "apple-touch-icon.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/13/5ac26b16-40a5-4452-9eda-9cd82ff090b2_apple-touch-icon.png"
+          }
         },
         "type": "openSource",
         "roles": [
