@@ -20,6 +20,10 @@
     },
     "relevantLinks": [
       {
+        "type": "other",
+        "URL": "https://bnarvaez.dev"
+      },
+      {
         "type": "github",
         "URL": "https://github.com/prinick96"
       }
@@ -1029,22 +1033,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Mastering Go Programming",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-609914ef-0f88-4b9d-89d8-46473522e3d5.pdf"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Go",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Vue 3: Novedades aplicadas al mundo real",
         "startDate": "2022-06-01",
         "institution": {
@@ -1064,6 +1052,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Integración Continua con GitHub Actions",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Code Smells a Clean Code: Change Preventers",
         "startDate": "2022-06-01",
         "institution": {
@@ -1076,6 +1079,30 @@
           },
           {
             "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microservices in Go",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7349faa4-6a33-4bab-b517-48a34b63a91a.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Go",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
             "type": "technology"
           }
         ]
@@ -1110,7 +1137,7 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Arquitectura CSS",
+        "name": "CSS Flex a fondo",
         "startDate": "2022-06-01",
         "institution": {
           "name": "CodelyTv"
@@ -1129,38 +1156,18 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Integración Continua con GitHub Actions",
+        "name": "Arquitectura CSS",
         "startDate": "2022-06-01",
         "institution": {
           "name": "CodelyTv"
         },
         "linkedCompetences": [
           {
-            "name": "Github",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microservices in Go",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7349faa4-6a33-4bab-b517-48a34b63a91a.pdf"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Docker",
+            "name": "CSS",
             "type": "technology"
           },
           {
-            "name": "Go",
-            "type": "technology"
-          },
-          {
-            "name": "Kubernetes",
+            "name": "Sass",
             "type": "technology"
           }
         ]
@@ -1191,18 +1198,15 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "CSS Flex a fondo",
+        "name": "Mastering Go Programming",
         "startDate": "2022-06-01",
         "institution": {
-          "name": "CodelyTv"
+          "name": "Udemy",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-609914ef-0f88-4b9d-89d8-46473522e3d5.pdf"
         },
         "linkedCompetences": [
           {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Sass",
+            "name": "Go",
             "type": "technology"
           }
         ]
@@ -1252,14 +1256,29 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Kubernetes para desarrolladores",
+        "name": "Taller de Scrum",
         "startDate": "2022-05-01",
         "institution": {
-          "name": "CodelyTv"
+          "name": "Openwebinars"
         },
         "linkedCompetences": [
           {
-            "name": "Kubernetes",
+            "name": "Jira",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Jira: Funcionalidades y gestión de proyectos Agile",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Openwebinars"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jira",
             "type": "technology"
           }
         ]
@@ -1301,14 +1320,18 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Docker para desarrolladores",
+        "name": "Principios SOLID aplicados",
         "startDate": "2022-05-01",
         "institution": {
           "name": "CodelyTv"
         },
         "linkedCompetences": [
           {
-            "name": "Docker",
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
             "type": "technology"
           }
         ]
@@ -1339,14 +1362,14 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de Jira: Funcionalidades y gestión de proyectos Agile",
+        "name": "Docker para desarrolladores",
         "startDate": "2022-05-01",
         "institution": {
-          "name": "Openwebinars"
+          "name": "CodelyTv"
         },
         "linkedCompetences": [
           {
-            "name": "Jira",
+            "name": "Docker",
             "type": "technology"
           }
         ]
@@ -1369,33 +1392,14 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Taller de Scrum",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "Openwebinars"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jira",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Principios SOLID aplicados",
+        "name": "Kubernetes para desarrolladores",
         "startDate": "2022-05-01",
         "institution": {
           "name": "CodelyTv"
         },
         "linkedCompetences": [
           {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
+            "name": "Kubernetes",
             "type": "technology"
           }
         ]
