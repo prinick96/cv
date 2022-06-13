@@ -123,6 +123,35 @@
       },
       {
         "details": {
+          "name": "Web personal <bnarvaez.dev>",
+          "description": "Es mi web personal, está escrita en Vue 3 con Typescript y Sass, Vuex para el estado del lenguaje, empaquetada con Vite y los test unitarios realizados con Vitest.\n\nhttps://bnarvaez.dev\n\nDejé el código open source :)",
+          "URL": "https://bnarvaez.dev"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Bilance wallet de BTC y USDT en Go",
           "description": "Una plataforma que funcionaba como monedero para BTC y USDT y micro exchange, para poder hacer intercambios entre las dos monedas, la plataforma se quedaba siempre con un porcentaje de ganancia entre cada intercambio y los usuarios tenían un gran sistema de referidos que bonificaba con acciones de los referidos dentro de la plataforma.\n\nEl Frontend escrito en Vue 2\nEl Backend escrito en GO, con una estructura de Model-Controller"
         },
