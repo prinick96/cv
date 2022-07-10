@@ -15,7 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/04/0dc943a0-ee19-4fae-b1c6-6189b9eb3eb7_58902244_83325105037.jpg"
       },
       "location": {
-        "notes": "España"
+        "notes": "Madrid, España"
       }
     },
     "relevantLinks": [
@@ -1501,7 +1501,19 @@
           "type": "technology"
         },
         {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
           "type": "technology"
         },
         {
