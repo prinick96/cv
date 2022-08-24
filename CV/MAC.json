@@ -43,6 +43,36 @@
     "jobs": [
       {
         "organization": {
+          "name": "Bemobile",
+          "URL": "https://www.bemobile.es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Fullstack Developer",
+            "startDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelancer"
         },
         "roles": [
