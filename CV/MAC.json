@@ -15,7 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/04/0dc943a0-ee19-4fae-b1c6-6189b9eb3eb7_58902244_83325105037.jpg"
       },
       "location": {
-        "notes": "Madrid, España"
+        "notes": "Madrid"
       }
     },
     "relevantLinks": [
@@ -49,6 +49,7 @@
           {
             "name": "FullStack Developer",
             "startDate": "2015-03-01",
+            "finishDate": "2022-08-01",
             "challenges": [
               {
                 "description": "He desarrollado múltiples proyectos como programador independiente, he tenido responsabilidades de backend, frontend, diseño de infraestructrura, arquitectura de software y administrador de sistemas.\n\nHa sido la principal motivación de mi aprendizaje, en cada proyecto me gusta aplicar nuevos conocimientos y tecnologías."
@@ -376,42 +377,6 @@
       },
       {
         "details": {
-          "name": "Ecommerce como servicio",
-          "description": "Fue el primer proyecto en el que trabajé el backend como servicio y dejé de hacer un monolito entre frontend y backend.\n\nEl front lo trabajé con Coffescript, sin uso de librerías externas.\n\nEl backend fue hecho en PHP con Silex de Symfony para la API.\n\nEl diseño de las interfaces lo hice yo mismo con Adobe Photoshop.\n\nUn ecommerce pequeño con las necesidades concretas del cliente."
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-11-01",
-            "finishDate": "2018-01-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "CoffeeScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Symfony",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Sistema de votos Paraguay en PHP",
           "description": "Escrito con un framework PHP propio, hice un sistema sencillo para hacer votaciones de candidatos en una interfaz de una página.\n\nLos candidatos se cargaban manualmente y luego aparecían en la página principal para hacer las votaciones.\n\nLas votaciones tenían un horario de apertura y cierre según la hora local de Paraguay.\n\nFrontend hecho con Javascript y jQuery para consumir la api del backend."
         },
@@ -444,6 +409,42 @@
               },
               {
                 "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ecommerce como servicio",
+          "description": "Fue el primer proyecto en el que trabajé el backend como servicio y dejé de hacer un monolito entre frontend y backend.\n\nEl front lo trabajé con Coffescript, sin uso de librerías externas.\n\nEl backend fue hecho en PHP con Silex de Symfony para la API.\n\nEl diseño de las interfaces lo hice yo mismo con Adobe Photoshop.\n\nUn ecommerce pequeño con las necesidades concretas del cliente."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-11-01",
+            "finishDate": "2018-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CoffeeScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
                 "type": "technology"
               }
             ]
@@ -1039,7 +1040,7 @@
       },
       {
         "skill": {
-          "name": "Adobe XD",
+          "name": "Adobe Xd",
           "type": "technology"
         }
       },
