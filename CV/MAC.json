@@ -8,26 +8,19 @@
     "profile": {
       "name": "Brayan",
       "surnames": "Narváez",
-      "title": "#FULLSTACK Go/Vue developer",
+      "title": "#FULLSTACK Go/Node/PHP/React/Vue developer",
       "description": "Me adentré en el mundo de la programación a los 10 años picando HTML, CSS y JS simplemente por hobby, luego empecé a estudiar PHP y SQL por internet y me di cuenta de que esto es lo que tenía que hacer para toda la vida. Estudié Ingeniería Informática y ahora me dedico a programar más que todo en Javascript y Golang.\n\nSiempre en constante aprendizaje para pulir hasta el más mínimo detalle de mi código. 🏂",
       "avatar": {
-        "alt": "58902244_833251050379082_5978106520502534144_n.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/04/0dc943a0-ee19-4fae-b1c6-6189b9eb3eb7_58902244_83325105037.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/04/0dc943a0-ee19-4fae-b1c6-6189b9eb3eb7_58902244_83325105037.jpg",
+        "alt": "58902244_833251050379082_5978106520502534144_n.jpg"
       },
       "location": {
-        "notes": "Madrid"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://bnarvaez.dev"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/prinick96"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Tengo un canal en Youtube con más de 30K de subs :)",
@@ -36,6 +29,12 @@
       {
         "topic": "Framework PHP",
         "fact": "Hace años hice un pequeño Framework en PHP cuya intención era hacer la vida más fácil al programador del día a día que quería hacer aplicaciones simples, fue un proyecto Open Source ligado a mi canal de Youtube.\n\nLa idea era entender un concepto como MVC mientras programabas una aplicación real.\n\nhttps://github.com/prinick96/Ocrend-Framework"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://bnarvaez.dev"
       }
     ]
   },
@@ -126,67 +125,6 @@
     "projects": [
       {
         "details": {
-          "name": "Hexagonal Architecture written in Go",
-          "description": "a TODO System with Hexagonal Architecture written in Go, test and uses cases examples, docker ready, heroku ready, basic CI integration, can use it how template for your projects",
-          "URL": "https://github.com/prinick96/hex-arch-go"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-06-01",
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "Heroku",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Web personal <bnarvaez.dev>",
-          "description": "Es mi web personal, está escrita en Vue 3 con Typescript y Sass, Vuex para el estado del lenguaje, empaquetada con Vite y los test unitarios realizados con Vitest.\n\nhttps://bnarvaez.dev\n\nDejé el código open source :)",
-          "URL": "https://bnarvaez.dev",
-          "image": {
-            "alt": "apple-touch-icon.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/13/5ac26b16-40a5-4452-9eda-9cd82ff090b2_apple-touch-icon.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-06-01",
-            "finishDate": "2022-06-01",
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Bilance wallet de BTC y USDT en Go",
           "description": "Una plataforma que funcionaba como monedero para BTC y USDT y micro exchange, para poder hacer intercambios entre las dos monedas, la plataforma se quedaba siempre con un porcentaje de ganancia entre cada intercambio y los usuarios tenían un gran sistema de referidos que bonificaba con acciones de los referidos dentro de la plataforma.\n\nEl Frontend escrito en Vue 2\nEl Backend escrito en GO, con una estructura de Model-Controller"
         },
@@ -195,7 +133,6 @@
           {
             "name": "Developer",
             "startDate": "2021-07-01",
-            "finishDate": "2022-02-01",
             "competences": [
               {
                 "name": "C++",
@@ -229,35 +166,41 @@
                 "name": "Vue",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-02-01"
           }
         ]
       },
       {
         "details": {
-          "name": "7Trading",
-          "description": "Plataforma de envió de señales de inversión de criptomonedas, escrito el backend en Go y el front en Vue.\n\nLos creadores de las señales hacían una gráfica en TradingView con la estimación de subida/caída del precio y desde un backoffice creaban la señal, la cual era notificada por Telegram con un bot, los usuarios abrían la señal y veían la gráfica de predicción para proceder a realizar la inversión."
+          "name": "Web personal <bnarvaez.dev>",
+          "description": "Es mi web personal, está escrita en Vue 3 con Typescript y Sass, Vuex para el estado del lenguaje, empaquetada con Vite y los test unitarios realizados con Vitest.\n\nhttps://bnarvaez.dev\n\nDejé el código open source :)",
+          "URL": "https://bnarvaez.dev",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/13/5ac26b16-40a5-4452-9eda-9cd82ff090b2_apple-touch-icon.png",
+            "alt": "apple-touch-icon.png"
+          }
         },
-        "type": "sideProject",
+        "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2021-05-01",
-            "finishDate": "2021-06-01",
+            "startDate": "2022-06-01",
             "competences": [
               {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
                 "name": "Vue",
                 "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-06-01"
           }
         ]
       },
@@ -271,7 +214,6 @@
           {
             "name": "Developer",
             "startDate": "2021-03-01",
-            "finishDate": "2022-05-01",
             "competences": [
               {
                 "name": "Go",
@@ -293,27 +235,36 @@
                 "name": "Vue",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-05-01"
           }
         ]
       },
       {
         "details": {
-          "name": "NEM Crypto api para wallet",
-          "description": "API para interactuar con un nodo de la criptomoneda NEM, escrito en Java"
+          "name": "7Trading",
+          "description": "Plataforma de envió de señales de inversión de criptomonedas, escrito el backend en Go y el front en Vue.\n\nLos creadores de las señales hacían una gráfica en TradingView con la estimación de subida/caída del precio y desde un backoffice creaban la señal, la cual era notificada por Telegram con un bot, los usuarios abrían la señal y veían la gráfica de predicción para proceder a realizar la inversión."
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2018-11-01",
-            "finishDate": "2018-12-01",
+            "startDate": "2021-05-01",
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2021-06-01"
           }
         ]
       },
@@ -327,7 +278,6 @@
           {
             "name": "Developer",
             "startDate": "2018-11-01",
-            "finishDate": "2019-07-01",
             "competences": [
               {
                 "name": "C++",
@@ -369,21 +319,22 @@
                 "name": "Vue",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2019-07-01"
           }
         ]
       },
       {
         "details": {
-          "name": "Bitmarket carrito de compras tipo video juego en JS y PHP",
-          "description": "Un proyecto bastante divertido que consistía en tener un carrito de compras e irlo moviendo por un pasillo y tomar los productos a comprar de los anaqueles, el proyecto no se terminó pero aún conservo el repositorio para mostrarlo funcionando.\n\nEl carrito y los demás componentes eran snippets en .svg que controlaba con animaciones css.\nAdemás tenía música.\n\nLa forma de pago al finalizar la selección de productos era con un Token ERC20 realizado para el cliente y también Bitcoin."
+          "name": "Calculadora de BTC a CLP/BS/USD",
+          "description": "Una pequeña app frontend que consumía de varias APIS, entre ellas de coinmarketcap para hacer un cálculo del precio de Bitcoin del momento a la moneda local seleccionada. ",
+          "URL": "https://github.com/prinick96/calculadora_btc"
         },
-        "type": "sideProject",
+        "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2018-02-01",
-            "finishDate": "2018-04-01",
+            "startDate": "2017-10-01",
             "competences": [
               {
                 "name": "CSS",
@@ -395,53 +346,14 @@
               },
               {
                 "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Sistema de votos Paraguay en PHP",
-          "description": "Escrito con un framework PHP propio, hice un sistema sencillo para hacer votaciones de candidatos en una interfaz de una página.\n\nLos candidatos se cargaban manualmente y luego aparecían en la página principal para hacer las votaciones.\n\nLas votaciones tenían un horario de apertura y cierre según la hora local de Paraguay.\n\nFrontend hecho con Javascript y jQuery para consumir la api del backend."
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-11-01",
-            "finishDate": "2017-11-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
                 "type": "technology"
               },
               {
                 "name": "jQuery",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2017-10-01"
           }
         ]
       },
@@ -455,7 +367,6 @@
           {
             "name": "Developer",
             "startDate": "2017-11-01",
-            "finishDate": "2018-01-01",
             "competences": [
               {
                 "name": "CSS",
@@ -477,77 +388,8 @@
                 "name": "Symfony",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Página personal con API de Youtube en PHP",
-          "description": "El proyecto lo escribí en un framework propio de PHP que realicé.\nSe conecta con la API de YouTube y mostraba mis videos más recientes subidos.\n\nEra un sitio web personal para acompañar a mi canal de YouTube",
-          "URL": "https://github.com/prinick96/prinick.com/"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-10-01",
-            "finishDate": "2017-10-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Twig",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Calculadora de BTC a CLP/BS/USD",
-          "description": "Una pequeña app frontend que consumía de varias APIS, entre ellas de coinmarketcap para hacer un cálculo del precio de Bitcoin del momento a la moneda local seleccionada. ",
-          "URL": "https://github.com/prinick96/calculadora_btc"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-10-01",
-            "finishDate": "2017-10-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2018-01-01"
           }
         ]
       },
@@ -561,7 +403,6 @@
           {
             "name": "Developer",
             "startDate": "2017-09-01",
-            "finishDate": "2017-10-01",
             "competences": [
               {
                 "name": "Bootstrap",
@@ -583,22 +424,8 @@
                 "name": "PHP",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Simulador de particionamiento en ASSEMBLY",
-          "description": "Proyecto de investigación que simula el movimiento de bloques y particionamiento en memoria caché utilizando el algoritmo de reemplazo FIFO.\nRealizado en ASM para Win32 con una interfaz de comandos.\n\nEscrito en una noche.",
-          "URL": "https://github.com/prinick96/cache-asm/blob/master/main.asm"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-06-01",
-            "finishDate": "2017-06-01"
+            ],
+            "finishDate": "2017-10-01"
           }
         ]
       },
@@ -613,7 +440,6 @@
           {
             "name": "Developer",
             "startDate": "2017-05-01",
-            "finishDate": "2017-05-01",
             "competences": [
               {
                 "name": "C++",
@@ -623,40 +449,8 @@
                 "name": "Linux",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Ocrend PHP Framework",
-          "description": "Ocrend era el nombre de una pequeña academia que quise hacer en YouTube, y me enfoqué en crear un pequeño Framework de PHP enfocado en MVC, la idea era aprender a programar un sistema web utilizando la arquitectura MVC y aprender en el proceso.",
-          "URL": "https://github.com/prinick96/Ocrend-Framework"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2018-10-01",
-            "competences": [
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Twig",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2017-05-01"
           }
         ]
       },
@@ -670,7 +464,6 @@
           {
             "name": "Developer",
             "startDate": "2017-03-01",
-            "finishDate": "2017-06-01",
             "competences": [
               {
                 "name": "CSS",
@@ -696,28 +489,8 @@
                 "name": "jQuery",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Simulador de Caché a bajo nivel",
-          "description": "Proyecto de investigación para simular el comportamiento de una jerarquía  de memoria que  consiste en una memoria caché y una memoria principal.\n\n- Mapeo directo hacia un número.\n- Mapeo asociativo por conjunto hacia un número.\n- Movimiento de bloques en la memoria caché.\n- Algoritmos de reemplazo en caché (LRU, FIFO, RAND).",
-          "URL": "https://github.com/prinick96/cache-simulator"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-11-01",
-            "finishDate": "2016-12-01",
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2017-06-01"
           }
         ]
       },
@@ -731,7 +504,6 @@
           {
             "name": "Developer",
             "startDate": "2016-10-01",
-            "finishDate": "2017-02-01",
             "competences": [
               {
                 "name": "CSS",
@@ -753,7 +525,81 @@
                 "name": "PHP",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2017-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Simulador de particionamiento en ASSEMBLY",
+          "description": "Proyecto de investigación que simula el movimiento de bloques y particionamiento en memoria caché utilizando el algoritmo de reemplazo FIFO.\nRealizado en ASM para Win32 con una interfaz de comandos.\n\nEscrito en una noche.",
+          "URL": "https://github.com/prinick96/cache-asm/blob/master/main.asm"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-06-01",
+            "finishDate": "2017-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Página personal con API de Youtube en PHP",
+          "description": "El proyecto lo escribí en un framework propio de PHP que realicé.\nSe conecta con la API de YouTube y mostraba mis videos más recientes subidos.\n\nEra un sitio web personal para acompañar a mi canal de YouTube",
+          "URL": "https://github.com/prinick96/prinick.com/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Twig",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2017-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Simulador de Caché a bajo nivel",
+          "description": "Proyecto de investigación para simular el comportamiento de una jerarquía  de memoria que  consiste en una memoria caché y una memoria principal.\n\n- Mapeo directo hacia un número.\n- Mapeo asociativo por conjunto hacia un número.\n- Movimiento de bloques en la memoria caché.\n- Algoritmos de reemplazo en caché (LRU, FIFO, RAND).",
+          "URL": "https://github.com/prinick96/cache-simulator"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-11-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2016-12-01"
           }
         ]
       },
@@ -767,7 +613,6 @@
           {
             "name": "Developer",
             "startDate": "2016-08-01",
-            "finishDate": "2016-12-01",
             "competences": [
               {
                 "name": "AJAX",
@@ -793,7 +638,8 @@
                 "name": "PHP",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2016-12-01"
           }
         ]
       },
@@ -808,13 +654,13 @@
           {
             "name": "Developer",
             "startDate": "2016-06-01",
-            "finishDate": "2016-07-01",
             "competences": [
               {
                 "name": "C++",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2016-07-01"
           }
         ]
       },
@@ -829,7 +675,6 @@
           {
             "name": "Developer",
             "startDate": "2010-02-01",
-            "finishDate": "2011-03-01",
             "competences": [
               {
                 "name": "AJAX",
@@ -863,7 +708,161 @@
                 "name": "Smarty",
                 "type": "technology"
               }
+            ],
+            "finishDate": "2011-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Hexagonal Architecture written in Go",
+          "description": "a TODO System with Hexagonal Architecture written in Go, test and uses cases examples, docker ready, heroku ready, basic CI integration, can use it how template for your projects",
+          "URL": "https://github.com/prinick96/hex-arch-go"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              }
             ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Bitmarket carrito de compras tipo video juego en JS y PHP",
+          "description": "Un proyecto bastante divertido que consistía en tener un carrito de compras e irlo moviendo por un pasillo y tomar los productos a comprar de los anaqueles, el proyecto no se terminó pero aún conservo el repositorio para mostrarlo funcionando.\n\nEl carrito y los demás componentes eran snippets en .svg que controlaba con animaciones css.\nAdemás tenía música.\n\nLa forma de pago al finalizar la selección de productos era con un Token ERC20 realizado para el cliente y también Bitcoin."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-02-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2018-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Sistema de votos Paraguay en PHP",
+          "description": "Escrito con un framework PHP propio, hice un sistema sencillo para hacer votaciones de candidatos en una interfaz de una página.\n\nLos candidatos se cargaban manualmente y luego aparecían en la página principal para hacer las votaciones.\n\nLas votaciones tenían un horario de apertura y cierre según la hora local de Paraguay.\n\nFrontend hecho con Javascript y jQuery para consumir la api del backend."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-11-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2017-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Ocrend PHP Framework",
+          "description": "Ocrend era el nombre de una pequeña academia que quise hacer en YouTube, y me enfoqué en crear un pequeño Framework de PHP enfocado en MVC, la idea era aprender a programar un sistema web utilizando la arquitectura MVC y aprender en el proceso.",
+          "URL": "https://github.com/prinick96/Ocrend-Framework"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-03-01",
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Twig",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2018-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "NEM Crypto api para wallet",
+          "description": "API para interactuar con un nodo de la criptomoneda NEM, escrito en Java"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-11-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2018-12-01"
           }
         ]
       }
@@ -872,37 +871,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Git",
+          "name": "Adobe Photoshop",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
+          "name": "Adobe Xd",
           "type": "technology"
         }
       },
@@ -914,7 +896,13 @@
       },
       {
         "skill": {
-          "name": "Webpack",
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CodeIgniter",
           "type": "technology"
         }
       },
@@ -926,19 +914,91 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
           "type": "technology"
         }
       },
@@ -956,97 +1016,7 @@
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Heroku",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mongoose",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vuex",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Netlify",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Go",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Photoshop",
           "type": "technology"
         }
       },
@@ -1058,7 +1028,25 @@
       },
       {
         "skill": {
-          "name": "GitLab",
+          "name": "PostCSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -1070,25 +1058,37 @@
       },
       {
         "skill": {
-          "name": "Adobe Xd",
+          "name": "Sass",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CodeIgniter",
+          "name": "Symfony",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostCSS",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jest",
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
           "type": "technology"
         }
       }
@@ -1097,18 +1097,18 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Vue 3: Novedades aplicadas al mundo real",
+        "name": "Arquitectura CSS",
         "startDate": "2022-06-01",
         "institution": {
           "name": "CodelyTv"
         },
         "linkedCompetences": [
           {
-            "name": "TypeScript",
+            "name": "CSS",
             "type": "technology"
           },
           {
-            "name": "Vue",
+            "name": "Sass",
             "type": "technology"
           }
         ]
@@ -1116,14 +1116,37 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Integración Continua con GitHub Actions",
+        "name": "Arquitectura Hexagonal",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "CSS Flex a fondo",
         "startDate": "2022-06-01",
         "institution": {
           "name": "CodelyTv"
         },
         "linkedCompetences": [
           {
-            "name": "Github",
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
             "type": "technology"
           }
         ]
@@ -1143,30 +1166,6 @@
           },
           {
             "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microservices in Go",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7349faa4-6a33-4bab-b517-48a34b63a91a.pdf"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "Go",
-            "type": "technology"
-          },
-          {
-            "name": "Kubernetes",
             "type": "technology"
           }
         ]
@@ -1201,140 +1200,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "CSS Flex a fondo",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "CodelyTv"
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Sass",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Arquitectura CSS",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "CodelyTv"
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Sass",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Web Performance",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "CodelyTv"
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Mastering Go Programming",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-609914ef-0f88-4b9d-89d8-46473522e3d5.pdf"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Go",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "QA Agile",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Software Testing desde cero: MasterClass todo en 1 (2022)",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b6dc40d-48d6-47a3-b7f1-cebac63b540c.pdf"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Cypress",
-            "type": "technology"
-          },
-          {
-            "name": "Selenium",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Linux administración de servidores",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Todo lo necesario para ser administrador",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-0c8653c7-d043-4d0a-b3f5-d44d4fae40e3.pdf"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "Linux",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Taller de Scrum",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "Openwebinars"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jira",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de Jira: Funcionalidades y gestión de proyectos Agile",
         "startDate": "2022-05-01",
         "institution": {
@@ -1343,82 +1208,6 @@
         "linkedCompetences": [
           {
             "name": "Jira",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Arquitectura Hexagonal",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "CodelyTv"
-        },
-        "linkedCompetences": [
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Git trabajo en equipo",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "CodelyTv"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Git",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Principios SOLID aplicados",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "CodelyTv"
-        },
-        "linkedCompetences": [
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Testing buenas prácticas",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "CodelyTv"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jest",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
             "type": "technology"
           }
         ]
@@ -1441,29 +1230,14 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Taller Web Assembly con Go",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "Openwebinars"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Go",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Kubernetes para desarrolladores",
+        "name": "Git trabajo en equipo",
         "startDate": "2022-05-01",
         "institution": {
           "name": "CodelyTv"
         },
         "linkedCompetences": [
           {
-            "name": "Kubernetes",
+            "name": "Git",
             "type": "technology"
           }
         ]
@@ -1473,16 +1247,16 @@
         "degreeAchieved": true,
         "name": "Ingeniero Informático",
         "startDate": "2014-08-01",
-        "finishDate": "2019-06-01",
         "institution": {
           "name": "Universidad Católica Andrés Bello",
           "description": "Carrera de Pregrado",
           "URL": "https://www.ucab.edu.ve/",
           "image": {
-            "alt": "Screenshot_2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/28/7d7482b2-bd26-4bda-9df0-07f28093c4ba_screenshot_2.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/28/7d7482b2-bd26-4bda-9df0-07f28093c4ba_screenshot_2.png",
+            "alt": "Screenshot_2.png"
           }
         },
+        "finishDate": "2019-06-01",
         "linkedCompetences": [
           {
             "name": ".NET",
@@ -1513,6 +1287,252 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Integración Continua con GitHub Actions",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Kubernetes para desarrolladores",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Linux administración de servidores",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Todo lo necesario para ser administrador",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-0c8653c7-d043-4d0a-b3f5-d44d4fae40e3.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Mastering Go Programming",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-609914ef-0f88-4b9d-89d8-46473522e3d5.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Go",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microservices in Go",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-7349faa4-6a33-4bab-b517-48a34b63a91a.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Go",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Principios SOLID aplicados",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "QA Agile",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Software Testing desde cero: MasterClass todo en 1 (2022)",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b6dc40d-48d6-47a3-b7f1-cebac63b540c.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cypress",
+            "type": "technology"
+          },
+          {
+            "name": "Selenium",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Taller Web Assembly con Go",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Openwebinars"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Go",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Taller de Scrum",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Openwebinars"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jira",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Testing buenas prácticas",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Vue 3: Novedades aplicadas al mundo real",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Web Performance",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "CodelyTv"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Critical view",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -1520,8 +1540,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/brayan-narváez/"
+          "URL": "https://github.com/prinick96",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "princk093@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "683296063",
+          "countryCode": "+34"
         }
       ]
     },
@@ -1569,7 +1598,85 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Donde esté en constante aprendizaje, enfrentarme a proyectos interesantes donde pueda hacer cosas nuevas.",
+    "goodPractices": "SOLID , BDD, Scrum, Kanban",
+    "projects": [
+      {
+        "name": "7Trading"
+      },
+      {
+        "name": "Bilance wallet de BTC y USDT en Go"
+      },
+      {
+        "name": "Bitmarket carrito de compras tipo video juego en JS y PHP"
+      },
+      {
+        "name": "Calculadora de BTC a CLP/BS/USD"
+      },
+      {
+        "name": "Didoc Plataforma para Centros Médicos y Doctores"
+      },
+      {
+        "name": "Directorio para Inmobiliaria"
+      },
+      {
+        "name": "Ecommerce como servicio"
+      },
+      {
+        "name": "Hexagonal Architecture written in Go"
+      },
+      {
+        "name": "Inscripción de materias del semestre, para alumnos"
+      },
+      {
+        "name": "NEM Crypto api para wallet"
+      },
+      {
+        "name": "Ocrend PHP Framework"
+      },
+      {
+        "name": "Procesos e Hilos de Linux en C++"
+      },
+      {
+        "name": "Página personal con API de Youtube en PHP"
+      },
+      {
+        "name": "Simulador de Caché a bajo nivel"
+      },
+      {
+        "name": "Simulador de particionamiento en ASSEMBLY"
+      },
+      {
+        "name": "Sistema de votos Paraguay en PHP"
+      },
+      {
+        "name": "Software de control para técnicos de teléfonos en PHP"
+      },
+      {
+        "name": "THD Criptomoneda y plataforma descentralizada"
+      },
+      {
+        "name": "Tracking para mecánica de vehículos en PHP"
+      },
+      {
+        "name": "Web de videos en PHP"
+      },
+      {
+        "name": "Web personal <bnarvaez.dev>"
+      },
+      {
+        "name": "Xnova Revolution"
+      }
+    ]
   }
 }
